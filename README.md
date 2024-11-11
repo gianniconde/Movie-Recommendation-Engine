@@ -1,6 +1,6 @@
 # Movie Recommendation Engine: Harnessing Machine Learning Techniques
 Gianni Conde, Sana Khan, Sahil Nanavaty <br>
-Spring 2024 <br>
+January 2024 - March 2024 <br>
 email: gianniconde96@gmail.com <br>
 
 ## About the Project
